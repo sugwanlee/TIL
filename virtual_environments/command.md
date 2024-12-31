@@ -44,5 +44,5 @@
 
     > ```
     > pip install -r ./venv/requirements.txt
-    > ```
     > # 다른 가상환경 안에 있는 requirements.txt 파일도 사용 할 수 있다.
+    > ```
