@@ -43,7 +43,6 @@
 - 버전 정보 파일로 설치하는 명령어
 
     > ```
-    > pip install -r requirements.txt
+    > pip install -r ./venv/requirements.txt
     > ```
-
-
+    > # 다른 가상환경 안에 있는 requirements.txt 파일도 사용 할 수 있다.
