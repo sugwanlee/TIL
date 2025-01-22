@@ -17,6 +17,6 @@
 post = self.get_object(pk)
 serializer = PostSerializer(post)
 ```
-- 여기서 post는 QuerySet이고 serializer은 json형식입니다
+- 여기서 post는 QuerySet이고 serializer은 json형식입니다.
 - QuerySet은 데이터베이스에 접근할 수 있는 명령어
 - serializer은 QuerySet을 통해 반환한 json객체 입니다.
