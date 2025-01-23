@@ -1,4 +1,4 @@
-**TIL: Django의 request 객체**
+# Django의 request 객체
 
 Django에서 `request`는 클라이언트가 보낸 HTTP 요청에 대한 정보를 담고 있는 객체입니다. `request` 객체는 뷰 함수에서 요청을 처리할 수 있게 해주며, 요청의 HTTP 메서드, URL 파라미터, 폼 데이터, 사용자 정보, 헤더 등을 다룰 수 있습니다.
 
