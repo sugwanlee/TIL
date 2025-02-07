@@ -4,6 +4,7 @@
 - 1958년 프랑크 로젠블랫(Frank Rosenblatt)이 개발한 **최초의 신경망 모델**.
 - 입력값에 **가중치(weight)**와 **편향(bias)**을 적용하여 **이진 분류(binary classification)**를 수행하는 **기초적인 인공 신경망**.
 - 수식:
+
   $$
   y = f\left(\sum_{i=1}^{n} w_i x_i + b\right)
   $$
